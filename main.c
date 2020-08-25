@@ -2,7 +2,6 @@
 int main()
 {
 int num1,num2;
-printf("\nNote: First number should be bigger than the second number to make the application work properly.");
 printf("\nEnter first number:");
 scanf("%d",&num1);
 printf("Enter second number:");
